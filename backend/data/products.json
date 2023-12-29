@@ -1,0 +1,2670 @@
+
+[
+
+
+
+    {
+        "category": "Ceramics",
+        "name": "Hand-Painted Ceramic Plate",
+        "price": 34.99,
+        "description": "A beautifully hand-painted ceramic plate, perfect for decorative display.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/ceramics/Hand-PaintedCeramicPlate-1.jpg"
+        },
+            {
+            "image": "/images/ceramics/Hand-PaintedCeramicPlate-2.jpg"
+        },
+            {
+            "image": "/images/ceramics/Hand-PaintedCeramicPlate-3.jpg"
+        },
+            {
+            "image": "/images/ceramics/Hand-PaintedCeramicPlate-4.jpg"
+        }
+    ],
+        "seller": "ArtisanCrafts",
+        "stock": 20,
+        "numOfReviews": 5,
+        "reviews": [
+
+        ]
+    },
+
+    {
+        "category": "Ceramics",
+        "name": "Ceramic Candle Holder",
+        "price": 24.99,
+        "description": "A ceramic candle holder with intricate patterns, creating a warm ambiance.",
+        "ratings": 5,
+        "images": [
+            {
+            "image": "/images/ceramics/CeramicCandleHolder-1.jpg"
+        },
+            {
+            "image": "/images/ceramics/CeramicCandleHolder-2.jpg"
+        },
+            {
+            "image": "/images/ceramics/CeramicCandleHolder-3.jpg"
+        },
+            {
+            "image": "/images/ceramics/CeramicCandleHolder-4.jpg"
+        }
+    ],
+        "seller": "GlowingCrafts",
+        "stock": 30,
+        "numOfReviews": 9,
+        "reviews": [
+
+        ]
+    }, 
+     {
+        "category": "Ceramics",
+        "name": "Artistic Ceramic Vase",
+        "price": 49.99,
+        "description": "An artistic ceramic vase with intricate designs, ideal for floral arrangements.",
+        "ratings": 2,
+        "images": [
+            {
+            "image": "/images/ceramics/ArtisticCeramicVase-1.jpg"
+        },
+            {
+            "image": "/images/ceramics/ArtisticCeramicVase-2.jpg"
+        },
+            {
+            "image": "/images/ceramics/ArtisticCeramicVase-3.jpg"
+        },
+            {
+            "image": "/images/ceramics/ArtisticCeramicVase-4.jpg"
+        }
+    ],
+        "seller": "PotteryWorld",
+        "stock": 15,
+        "numOfReviews": 7,
+        "reviews": []
+    }, {
+        "category": "Ceramics",
+        "name": "Ceramic Tea Set",
+        "price": 79.99,
+        "description": "A charming ceramic tea set, complete with teapot, cups, and saucers.",
+        "ratings": 5,
+        "images": [
+            {
+            "image": "/images/ceramics/CeramicTeaSet-1.jpg"
+        },
+            {
+            "image": "/images/ceramics/CeramicTeaSet-2.jpg"
+        },
+            {
+            "image": "/images/ceramics/CeramicTeaSet-3.jpg"
+        },
+            {
+            "image": "/images/ceramics/CeramicTeaSet-4.jpg"
+        }
+    ],
+        "seller": "TeaTreasures",
+        "stock": 10,
+        "numOfReviews": 3,
+        "reviews": []
+    },
+    {
+        "category": "Leather Goods",
+        "name": "Leather Watch Strap",
+        "price": 27.99,
+        "description": "A leather watch strap with comfortable fit, enhancing your timepiece's elegance.",
+        "ratings": 1,
+        "images": [
+            {
+            "image": "/images/leather/LeatherWatchStrap-1.jpg"
+        },
+            {
+            "image": "/images/leather/LeatherWatchStrap-2.jpg"
+        },
+            {
+            "image": "/images/leather/LeatherWatchStrap-3.jpg"
+        },
+            {
+            "image": "/images/leather/LeatherWatchStrap-4.jpg"
+        }
+    ],
+        "seller": "WatchCrafters",
+        "stock": 15,
+        "numOfReviews": 5,
+        "reviews": [
+
+        ]
+    }, 
+   
+     {
+        "category": "Ceramics",
+        "name": "Decorative Ceramic Figurine",
+        "price": 29.99,
+        "description": "A decorative ceramic figurine that adds a touch of elegance to any space.",
+        "ratings": 3,
+        "images": [
+            {
+            "image": "/images/ceramics/DecorativeCeramicFigurine-1.jpg"
+        },
+            {
+            "image": "/images/ceramics/DecorativeCeramicFigurine-2.jpg"
+        },
+            {
+            "image": "/images/ceramics/DecorativeCeramicFigurine-3.jpg"
+        },
+            {
+            "image": "/images/ceramics/DecorativeCeramicFigurine-4.jpg"
+        }
+    ],
+        "seller": "ArtfulDecor",
+        "stock": 18,
+        "numOfReviews": 6,
+        "reviews": [
+
+        ]
+    },
+     {
+        "category": "Ceramics",
+        "name": "Ceramic Candle Holder",
+        "price": 24.99,
+        "description": "A ceramic candle holder with intricate patterns, creating a warm ambiance.",
+        "ratings": 5,
+        "images": [
+            {
+            "image": "/images/ceramics/CeramicCandleHolder-1.jpg"
+        },
+            {
+            "image": "/images/ceramics/CeramicCandleHolder-2.jpg"
+        },
+            {
+            "image": "/images/ceramics/CeramicCandleHolder-3.jpg"
+        },
+            {
+            "image": "/images/ceramics/CeramicCandleHolder-4.jpg"
+        }
+    ],
+        "seller": "GlowingCrafts",
+        "stock": 30,
+        "numOfReviews": 9,
+        "reviews": [
+
+        ]
+    }, 
+    {
+        "category": "Ceramics",
+        "name": "Handcrafted Pottery Bowl",
+        "price": 39.99,
+        "description": "A handcrafted pottery bowl, perfect for serving salads or snacks.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/ceramics/HandcraftedPotteryBowl-1.jpg"
+        },
+            {
+            "image": "/images/ceramics/HandcraftedPotteryBowl-2.jpg"
+        },
+            {
+            "image": "/images/ceramics/HandcraftedPotteryBowl-3.jpg"
+        },
+            {
+            "image": "/images/ceramics/HandcraftedPotteryBowl-4.jpg"
+        }
+    ],
+        "seller": "KitchenArtisans",
+        "stock": 12,
+        "numOfReviews": 4,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Ceramics",
+        "name": "Ceramic Planter",
+        "price": 42.99,
+        "description": "A ceramic planter with a unique design, perfect for housing your favorite plants.",
+        "ratings": 2,
+        "images": [
+            {
+            "image": "/images/ceramics/CeramicPlanter-1.jpg"
+        },
+            {
+            "image": "/images/ceramics/CeramicPlanter-2.jpg"
+        },
+            {
+            "image": "/images/ceramics/CeramicPlanter-3.jpg"
+        },
+            {
+            "image": "/images/ceramics/CeramicPlanter-4.jpg"
+        }
+    ],
+        "seller": "PlantParadise",
+        "stock": 8,
+        "numOfReviews": 3,
+        "reviews": [
+
+        ]
+    }, 
+    {
+        "category": "Ceramics",
+        "name": "Handcrafted Ceramic Mug",
+        "price": 19.99,
+        "description": "A handcrafted ceramic mug, perfect for enjoying your favorite beverages.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/ceramics/HandcraftedCeramicMug-1.jpg"
+        },
+            {
+            "image": "/images/ceramics/HandcraftedCeramicMug-2.jpg"
+        },
+            {
+            "image": "/images/ceramics/HandcraftedCeramicMug-3.jpg"
+        },
+            {
+            "image": "/images/ceramics/HandcraftedCeramicMug-4.jpg"
+        }
+    ],
+        "seller": "MugMakers",
+        "stock": 25,
+        "numOfReviews": 4,
+        "reviews": []
+    },{
+        "category": "Ceramics",
+        "name": "Ceramic Coasters Set",
+        "price": 18.99,
+        "description": "A set of ceramic coasters with intricate patterns, protecting your surfaces in style.",
+        "ratings": 5,
+        "images": [
+            {
+            "image": "/images/ceramics/CeramicCoastersSet-1.jpg"
+        },
+            {
+            "image": "/images/ceramics/CeramicCoastersSet-2.jpg"
+        },
+            {
+            "image": "/images/ceramics/CeramicCoastersSet-3.jpg"
+        },
+            {
+            "image": "/images/ceramics/CeramicCoastersSet-4.jpg"
+        }
+    ],
+        "seller": "HomeAccents",
+        "stock": 14,
+        "numOfReviews": 6,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Ceramics",
+        "name": "Ceramic Wall Clock",
+        "price": 64.99,
+        "description": "A ceramic wall clock with a unique design, adding style and functionality to your walls.",
+        "ratings": 3,
+        "images": [
+            {
+            "image": "/images/ceramics/CeramicWallClock-1.jpg"
+        },
+            {
+            "image": "/images/ceramics/CeramicWallClock-2.jpg"
+        },
+            {
+            "image": "/images/ceramics/CeramicWallClock-3.jpg"
+        },
+            {
+            "image": "/images/ceramics/CeramicWallClock-4.jpg"
+        }
+    ],
+        "seller": "TimelessDecor",
+        "stock": 5,
+        "numOfReviews": 8,
+        "reviews": [
+
+        ]
+    },
+
+
+
+
+
+
+
+    {
+        "category": "Woodcrafts",
+        "name": "Handcarved Wooden Bowl",
+        "price": 29.99,
+        "description": "A handcarved wooden bowl, perfect for serving snacks or displaying decorative items.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/woodcrafts/HandcarvedWoodenBowl-1.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/HandcarvedWoodenBowl-2.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/HandcarvedWoodenBowl-3.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/HandcarvedWoodenBowl-4.jpg"
+        }
+    ],
+        "seller": "ArtfulWoodworks",
+        "stock": 15,
+        "numOfReviews": 6,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Woodcrafts",
+        "name": "Wooden Wall Shelf",
+        "price": 42.99,
+        "description": "A wooden wall shelf with intricate carvings, providing both functionality and aesthetics.",
+        "ratings": 3,
+        "images": [
+            {
+            "image": "/images/woodcrafts/WoodenWallShelf-1.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenWallShelf-2.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenWallShelf-3.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenWallShelf-4.jpg"
+        }
+    ],
+        "seller": "ArtisticHome",
+        "stock": 12,
+        "numOfReviews": 8,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Woodcrafts",
+        "name": "Wooden Coasters Set",
+        "price": 18.99,
+        "description": "A set of wooden coasters with natural wood grain patterns, protecting your surfaces in style.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/woodcrafts/WoodenCoastersSet-1.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenCoastersSet-2.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenCoastersSet-3.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenCoastersSet-4.jpg"
+        }
+    ],
+        "seller": "NatureCrafters",
+        "stock": 14,
+        "numOfReviews": 5,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Woodcrafts",
+        "name": "Wooden Candle Holders",
+        "price": 24.99,
+        "description": "A set of wooden candle holders with intricate detailing, creating a cozy ambiance.",
+        "ratings": 5,
+        "images": [
+            {
+            "image": "/images/woodcrafts/WoodenCandleHolders-1.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenCandleHolders-2.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenCandleHolders-3.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenCandleHolders-4.jpg"
+        }
+    ],
+        "seller": "GlowingWoodworks",
+        "stock": 20,
+        "numOfReviews": 7,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Woodcrafts",
+        "name": "Wooden Jewelry Box",
+        "price": 36.99,
+        "description": "A wooden jewelry box with multiple compartments, keeping your precious items organized.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/woodcrafts/WoodenJewelryBox-1.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenJewelryBox-2.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenJewelryBox-3.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenJewelryBox-4.jpg"
+        }
+    ],
+        "seller": "TreasureChests",
+        "stock": 10,
+        "numOfReviews": 9,
+        "reviews": []
+    }, {
+        "category": "Woodcrafts",
+        "name": "Wooden Picture Frame",
+        "price": 19.99,
+        "description": "A wooden picture frame with a rustic design, showcasing your favorite memories.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/woodcrafts/WoodenPictureFrame-1.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenPictureFrame-2.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenPictureFrame-3.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenPictureFrame-4.jpg"
+        }
+    ],
+        "seller": "MemoryLane",
+        "stock": 25,
+        "numOfReviews": 6,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Woodcrafts",
+        "name": "Wooden Serving Tray",
+        "price": 32.99,
+        "description": "A wooden serving tray with handles, perfect for carrying and presenting food and drinks.",
+        "ratings": 5,
+        "images": [
+            {
+            "image": "/images/woodcrafts/WoodenServingTray-1.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenServingTray-2.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenServingTray-3.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenServingTray-4.jpg"
+        }
+    ],
+        "seller": "KitchenCraftsmen",
+        "stock": 18,
+        "numOfReviews": 7,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Woodcrafts",
+        "name": "Wooden Wall Art",
+        "price": 59.99,
+        "description": "A wooden wall art piece with intricate patterns, enhancing the beauty of your walls.",
+        "ratings": 3,
+        "images": [
+            {
+            "image": "/images/woodcrafts/WoodenWallArt-1.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenWallArt-2.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenWallArt-3.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenWallArt-4.jpg"
+    }
+    ],
+        "seller": "ArtistryWood",
+        "stock": 9,
+        "numOfReviews": 8,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Woodcrafts",
+        "name": "Wooden Bookends",
+        "price": 26.99,
+        "description": "A pair of wooden bookends with intricate carvings, keeping your books organized in style.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/woodcrafts/WoodenBookends-1.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenBookends-2.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenBookends-3.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenBookends-4.jpg"
+        }
+    ],
+        "seller": "BookishDelights",
+        "stock": 13,
+        "numOfReviews": 5,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Woodcrafts",
+        "name": "Wooden Coasters with Holder",
+        "price": 24.99,
+        "description": "A set of wooden coasters with a matching holder, adding a touch of style to your table.",
+        "ratings": 5,
+        "images": [
+            {
+            "image": "/images/woodcrafts/WoodenCoasterswithHolder-1.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenCoasterswithHolder-2.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenCoasterswithHolder-3.jpg"
+        },
+            {
+            "image": "/images/woodcrafts/WoodenCoasterswithHolder-4.jpg"
+        }
+    ],
+        "seller": "TableTreasures",
+        "stock": 10,
+        "numOfReviews": 4,
+        "reviews": [
+
+        ]
+    },
+
+
+
+
+
+    {
+        "category": "Textiles",
+        "name": "Handwoven Throw Blanket",
+        "price": 59.99,
+        "description": "A handwoven throw blanket with intricate patterns, adding warmth and style to your space.",
+        "ratings": 3,
+        "images": [
+            {
+            "image": "/images/textiles/HandwovenThrowBlanket-1.jpg"
+        },
+            {
+            "image": "/images/textiles/HandwovenThrowBlanket-2.jpg"
+        },
+            {
+            "image": "/images/textiles/HandwovenThrowBlanket-3.jpg"
+        },
+            {
+            "image": "/images/textiles/HandwovenThrowBlanket-4.jpg"
+        }
+    ],
+        "seller": "WeaveArtistry",
+        "stock": 15,
+        "numOfReviews": 6,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Textiles",
+        "name": "Embroidered Pillow Cover",
+        "price": 24.99,
+        "description": "An embroidered pillow cover with intricate designs, adding elegance to your home decor.",
+        "ratings": 2,
+        "images": [
+            {
+            "image": "/images/textiles/EmbroideredPillowCover-1.jpg"
+        },
+            {
+            "image": "/images/textiles/EmbroideredPillowCover-2.jpg"
+        },
+            {
+            "image": "/images/textiles/EmbroideredPillowCover-3.jpg"
+        },
+            {
+            "image": "/images/textiles/EmbroideredPillowCover-4.jpg"
+        }
+    ],
+        "seller": "StitchCrafters",
+        "stock": 20,
+        "numOfReviews": 5,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Textiles",
+        "name": "Handprinted Table Runner",
+        "price": 29.99,
+        "description": "A handprinted table runner with vibrant colors, perfect for adding a pop of design to your dining table.",
+        "ratings": 3,
+        "images": [
+            {
+            "image": "/images/textiles/HandprintedTableRunner-1.jpg"
+        },
+            {
+            "image": "/images/textiles/HandprintedTableRunner-2.jpg"
+        },
+            {
+            "image": "/images/textiles/HandprintedTableRunner-3.jpg"
+        },
+            {
+            "image": "/images/textiles/HandprintedTableRunner-4.jpg"
+        }
+    ],
+        "seller": "TableTrends",
+        "stock": 18,
+        "numOfReviews": 7,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Textiles",
+        "name": "Handwoven Tote Bag",
+        "price": 39.99,
+        "description": "A handwoven tote bag with intricate patterns, combining fashion and functionality.",
+        "ratings": 5,
+        "images": [
+            {
+            "image": "/images/textiles/HandwovenToteBag-1.jpg"
+        },
+            {
+            "image": "/images/textiles/HandwovenToteBag-2.jpg"
+        },
+            {
+            "image": "/images/textiles/HandwovenToteBag-3.jpg"
+        },
+            {
+            "image": "/images/textiles/HandwovenToteBag-4.jpg"
+        }
+    ],
+        "seller": "FashionWeaves",
+        "stock": 22,
+        "numOfReviews": 9,
+        "reviews": [
+
+        ]
+    }, 
+    {
+        "category": "Textiles",
+        "name": "Hand-Dyed Scarf",
+        "price": 18.99,
+        "description": "A hand-dyed scarf with unique color patterns, adding flair to your outfit.",
+        "ratings": 3,
+        "images": [
+            {
+            "image": "/images/textiles/Hand-DyedScarf-1.jpg"
+        },
+            {
+            "image": "/images/textiles/Hand-DyedScarf-2.jpg"
+        },
+            {
+            "image": "/images/textiles/Hand-DyedScarf-3.jpg"
+        },
+            {
+            "image": "/images/textiles/Hand-DyedScarf-4.jpg"
+        }
+    ],
+        "seller": "ColorSplendor",
+        "stock": 25,
+        "numOfReviews": 6,
+        "reviews": [
+
+        ]
+    }, 
+    {
+        "category": "Textiles",
+        "name": "Handcrafted Wall Hanging",
+        "price": 32.99,
+        "description": "A handcrafted wall hanging with intricate textile work, enhancing the beauty of your walls.",
+        "ratings": 5,
+        "images": [
+            {
+            "image": "/images/textiles/HandcraftedWallHanging-1.jpg"
+        },
+            {
+            "image": "/images/textiles/HandcraftedWallHanging-2.jpg"
+        },
+            {
+            "image": "/images/textiles/HandcraftedWallHanging-3.jpg"
+        },
+            {
+            "image": "/images/textiles/HandcraftedWallHanging-4.jpg"
+        }
+    ],
+        "seller": "ArtfulTextiles",
+        "stock": 15,
+        "numOfReviews": 8,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Textiles",
+        "name": "Handwoven Placemat Set",
+        "price": 28.99,
+        "description": "A set of handwoven placemats with intricate designs, elevating your dining experience.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/textiles/HandwovenPlacematSet-1.jpg"
+        },
+            {
+            "image": "/images/textiles/HandwovenPlacematSet-2.jpg"
+        },
+            {
+            "image": "/images/textiles/HandwovenPlacematSet-3.jpg"
+        },
+            {
+            "image": "/images/textiles/HandwovenPlacematSet-4.jpg"
+        }
+    ],
+        "seller": "DiningElegance",
+        "stock": 20,
+        "numOfReviews": 7,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Textiles",
+        "name": "Hand-Embroidered Shawl",
+        "price": 49.99,
+        "description": "A hand-embroidered shawl with intricate patterns, keeping you warm and stylish.",
+        "ratings": 3,
+        "images": [
+            {
+            "image": "/images/textiles/Hand-EmbroideredShawl-1.jpg"
+        },
+            {
+            "image": "/images/textiles/Hand-EmbroideredShawl-2.jpg"
+        },
+            {
+            "image": "/images/textiles/Hand-EmbroideredShawl-3.jpg"
+        },
+            {
+            "image": "/images/textiles/Hand-EmbroideredShawl-4.jpg"
+        }
+    ],
+        "seller": "EmbroideryArt",
+        "stock": 17,
+        "numOfReviews": 6,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Textiles",
+        "name": "Handwoven Tablecloth",
+        "price": 64.99,
+        "description": "A handwoven tablecloth with intricate patterns, setting the stage for delightful meals.",
+        "ratings": 2,
+        "images": [
+            {
+            "image": "/images/textiles/HandwovenTablecloth-1.jpg"
+        },
+            {
+            "image": "/images/textiles/HandwovenTablecloth-2.jpg"
+        },
+            {
+            "image": "/images/textiles/HandwovenTablecloth-3.jpg"
+        },
+            {
+            "image": "/images/textiles/HandwovenTablecloth-4.jpg"
+        }
+    ],
+        "seller": "TableElegance",
+        "stock": 14,
+        "numOfReviews": 8,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Textiles",
+        "name": "Hand-Dyed Table Napkins Set",
+        "price": 34.99,
+        "description": "A set of hand-dyed table napkins with unique color patterns, adding charm to your dining experience.",
+        "ratings": 3,
+        "images": 
+        [
+            {
+            "image": "/images/textiles/Hand-DyedTableNapkinsSet-1.jpg"
+        },
+            {
+            "image": "/images/textiles/Hand-DyedTableNapkinsSet-2.jpg"
+        },
+            {
+            "image": "/images/textiles/Hand-DyedTableNapkinsSet-3.jpg"
+        },
+            {
+            "image": "/images/textiles/Hand-DyedTableNapkinsSet-4.jpg"
+        }
+    ],
+        "seller": "TableCharm",
+        "stock": 16,
+        "numOfReviews": 5,
+        "reviews": [
+
+        ]
+    },
+
+
+
+
+    {
+        "category": "Metalwork",
+        "name": "Handcrafted Metal Sculpture",
+        "price": 89.99,
+        "description": "A handcrafted metal sculpture with intricate details, adding an artistic touch to your space.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/metalwork/HandcraftedMetalSculpture-1.jpg"
+        },
+            {
+            "image": "/images/metalwork/HandcraftedMetalSculpture-2.jpg"
+        },
+            {
+            "image": "/images/metalwork/HandcraftedMetalSculpture-3.jpg"
+        },
+            {
+            "image": "/images/metalwork/HandcraftedMetalSculpture-4.jpg"
+        }
+    ],
+        "seller": "MetalArtistry",
+        "stock": 12,
+        "numOfReviews": 6,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Metalwork",
+        "name": "Metal Wall Clock",
+        "price": 54.99,
+        "description": "A metal wall clock with artistic metalwork, combining functionality and aesthetics.",
+        "ratings": 5,
+        "images": [
+            {
+            "image": "/images/metalwork/MetalWallClock-1.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalWallClock-2.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalWallClock-3.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalWallClock-4.jpg"
+        }
+    ],
+        "seller": "TimelessCreations",
+        "stock": 20,
+        "numOfReviews": 7,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Metalwork",
+        "name": "Hand-Forged Candle Holder",
+        "price": 42.99,
+        "description": "A hand-forged metal candle holder with intricate patterns, creating a cozy ambiance.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/metalwork/Hand-ForgedCandleHolder-1.jpg"
+        },
+            {
+            "image": "/images/metalwork/Hand-ForgedCandleHolder-2.jpg"
+        },
+            {
+            "image": "/images/metalwork/Hand-ForgedCandleHolder-3.jpg"
+        },
+            {
+            "image": "/images/metalwork/Hand-ForgedCandleHolder-4.jpg"
+        }
+    ],
+        "seller": "MetalCraftsmen",
+        "stock": 18,
+        "numOfReviews": 8,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Metalwork",
+        "name": "Metal Wall Art",
+        "price": 69.99,
+        "description": "A metal wall art piece with intricate metalwork, enhancing the beauty of your walls.",
+        "ratings": 3,
+        "images": [
+            {
+            "image": "/images/metalwork/MetalWallArt-1.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalWallArt-2.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalWallArt-3.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalWallArt-4.jpg"
+        }
+    ],
+        "seller": "MetallicVisions",
+        "stock": 15,
+        "numOfReviews": 9,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Metalwork",
+        "name": "Metal Jewelry Stand",
+        "price": 28.99,
+        "description": "A metal jewelry stand with intricate metalwork, keeping your accessories organized.",
+        "ratings": 5,
+        "images": [
+            {
+            "image": "/images/metalwork/MetalJewelryStand-1.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalJewelryStand-2.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalJewelryStand-3.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalJewelryStand-4.jpg"
+        }
+    ],
+        "seller": "JewelryArtisans",
+        "stock": 25,
+        "numOfReviews": 7,
+        "reviews": []
+    }, {
+        "category": "Metalwork",
+        "name": "Metal Key Holder",
+        "price": 19.99,
+        "description": "A metal key holder with decorative metalwork, organizing your keys in style.",
+        "ratings": 3,
+        "images": [
+            {
+            "image": "/images/metalwork/MetalKeyHolder-1.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalKeyHolder-2.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalKeyHolder-3.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalKeyHolder-4.jpg"
+        }
+    ],
+        "seller": "KeyCrafters",
+        "stock": 30,
+        "numOfReviews": 6,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Metalwork",
+        "name": "Metal Coasters Set",
+        "price": 24.99,
+        "description": "A set of metal coasters with intricate metalwork, protecting your surfaces in style.",
+        "ratings": 2,
+        "images": [
+            {
+            "image": "/images/metalwork/MetalCoastersSet-1.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalCoastersSet-2.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalCoastersSet-3.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalCoastersSet-4.jpg"
+        }
+    ],
+        "seller": "MetallicAccents",
+        "stock": 22,
+        "numOfReviews": 5,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Metalwork",
+        "name": "Metal Plant Stand",
+        "price": 34.99,
+        "description": "A metal plant stand with artistic metalwork, showcasing your plants in a decorative way.",
+        "ratings": 1,
+        "images": [
+            {
+            "image": "/images/metalwork/MetalPlantStand-1.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalPlantStand-2.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalPlantStand-3.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalPlantStand-4.jpg"
+        }
+    ],
+        "seller": "PlantAdornments",
+        "stock": 18,
+        "numOfReviews": 7,
+        "reviews": [
+
+        ]
+    },
+
+    {
+        "category": "Metalwork",
+        "name": "Metal Wall Shelf",
+        "price": 49.99,
+        "description": "A metal wall shelf with artistic metalwork, providing both storage and decoration.",
+        "ratings": 5,
+        "images": [
+            {
+            "image": "/images/metalwork/MetalWallShelf-1.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalWallShelf-2.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalWallShelf-3.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalWallShelf-4.jpg"
+        }
+    ],
+        "seller": "MetallicDesigns",
+        "stock": 14,
+        "numOfReviews": 6,
+        "reviews": []
+    }, {
+        "category": "Metalwork",
+        "name": "Metal Wall Mirror",
+        "price": 79.99,
+        "description": "A metal wall mirror with intricate metalwork, reflecting elegance in your space.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/metalwork/MetalWallMirror-1.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalWallMirror-2.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalWallMirror-3.jpg"
+        },
+            {
+            "image": "/images/metalwork/MetalWallMirror-4.jpg"
+        }
+    ],
+        "seller": "ReflectiveDesigns",
+        "stock": 15,
+        "numOfReviews": 8,
+        "reviews": [
+
+        ]
+    },
+
+
+
+
+
+
+
+
+    {
+        "category": "Glassware",
+        "name": "Handblown Glass Vase",
+        "price": 64.99,
+        "description": "A handblown glass vase with intricate patterns, perfect for displaying flowers.",
+        "ratings": 3,
+        "images": [
+            {
+            "image": "/images/glassware/HandblownGlassVase-1.jpg"
+        },
+            {
+            "image": "/images/glassware/HandblownGlassVase-2.jpg"
+        },
+            {
+            "image": "/images/glassware/HandblownGlassVase-3.jpg"
+        },
+            {
+            "image": "/images/glassware/HandblownGlassVase-4.jpg"
+        }
+    ],
+        "seller": "GlassArtistry",
+        "stock": 15,
+        "numOfReviews": 7,
+        "reviews": []
+    }, {
+        "category": "Glassware",
+        "name": "Stained Glass Suncatcher",
+        "price": 29.99,
+        "description": "A stained glass suncatcher with vibrant colors, adding beauty to your windows.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/glassware/StainedGlassSuncatcher-1.jpg"
+        },
+            {
+            "image": "/images/glassware/StainedGlassSuncatcher-2.jpg"
+        },
+            {
+            "image": "/images/glassware/StainedGlassSuncatcher-3.jpg"
+        },
+            {
+            "image": "/images/glassware/StainedGlassSuncatcher-4.jpg"
+        }
+    ],
+        "seller": "SunshineCreations",
+        "stock": 20,
+        "numOfReviews": 6,
+        "reviews": []
+    }, {
+        "category": "Glassware",
+        "name": "Handcrafted Glass Tumbler Set",
+        "price": 42.99,
+        "description": "A set of handcrafted glass tumblers with unique designs, perfect for beverages.",
+        "ratings": 5,
+        "images": [
+            {
+            "image": "/images/glassware/HandcraftedGlassTumblerSet-1.jpg"
+        },
+            {
+            "image": "/images/glassware/HandcraftedGlassTumblerSet-2.jpg"
+        },
+            {
+            "image": "/images/glassware/HandcraftedGlassTumblerSet-3.jpg"
+        },
+            {
+            "image": "/images/glassware/HandcraftedGlassTumblerSet-4.jpg"
+        }
+    ],
+        "seller": "GlassDelights",
+        "stock": 18,
+        "numOfReviews": 8,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Glassware",
+        "name": "Etched Glass Tray",
+        "price": 49.99,
+        "description": "An etched glass tray with intricate designs, perfect for serving and display.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/glassware/EtchedGlassTray-1.jpg"
+        },
+            {
+            "image": "/images/glassware/EtchedGlassTray-2.jpg"
+        },
+            {
+            "image": "/images/glassware/EtchedGlassTray-3.jpg"
+        },
+            {
+            "image": "/images/glassware/EtchedGlassTray-4.jpg"
+        }
+    ],
+        "seller": "ElegantGlassworks",
+        "stock": 15,
+        "numOfReviews": 9,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Glassware",
+        "name": "Handblown Glass Ornament",
+        "price": 18.99,
+        "description": "A handblown glass ornament with intricate patterns, perfect for holiday decoration.",
+        "ratings": 3,
+        "images": [
+            {
+            "image": "/images/glassware/HandblownGlassOrnament-1.jpg"
+        },
+            {
+            "image": "/images/glassware/HandblownGlassOrnament-2.jpg"
+        },
+            {
+            "image": "/images/glassware/HandblownGlassOrnament-3.jpg"
+        },
+            {
+            "image": "/images/glassware/HandblownGlassOrnament-4.jpg"
+        }
+    ],
+        "seller": "HolidayGems",
+        "stock": 25,
+        "numOfReviews": 6,
+        "reviews": []
+    }, {
+        "category": "Glassware",
+        "name": "Glass Candle Holder",
+        "price": 24.99,
+        "description": "A glass candle holder with elegant designs, creating a warm and inviting ambiance.",
+        "ratings": 2,
+        "images": [
+            {
+            "image": "/images/glassware/GlassCandleHolder-1.jpg"
+        },
+            {
+            "image": "/images/glassware/GlassCandleHolder-2.jpg"
+        },
+            {
+            "image": "/images/glassware/GlassCandleHolder-3.jpg"
+        },
+            {
+            "image": "/images/glassware/GlassCandleHolder-4.jpg"
+        }
+    ],
+        "seller": "CandleGlow",
+        "stock": 28,
+        "numOfReviews": 5,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Glassware",
+        "name": "Hand-Blown Glass Bowl",
+        "price": 39.99,
+        "description": "A hand-blown glass bowl with unique colors, perfect for serving snacks or decor.",
+        "ratings": 5,
+        "images": [
+            {
+            "image": "/images/glassware/Hand-BlownGlassBowl-1.jpg"
+        },
+            {
+            "image": "/images/glassware/Hand-BlownGlassBowl-2.jpg"
+        },
+            {
+            "image": "/images/glassware/Hand-BlownGlassBowl-3.jpg"
+        },
+            {
+            "image": "/images/glassware/Hand-BlownGlassBowl-4.jpg"
+        }
+    ],
+        "seller": "ArtisticGlass",
+        "stock": 20,
+        "numOfReviews": 7,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Glassware",
+        "name": "Fused Glass Coasters Set",
+        "price": 28.99,
+        "description": "A set of fused glass coasters with vibrant patterns, protecting your surfaces in style.",
+        "ratings": 4,
+        "images": [
+            {
+
+            "image": "/images/glassware/FusedGlassCoastersSet-1.jpg"
+        },
+            {
+
+            "image": "/images/glassware/FusedGlassCoastersSet-2.jpg"
+        },
+            {
+
+            "image": "/images/glassware/FusedGlassCoastersSet-3.jpg"
+        },
+            {
+
+            "image": "/images/glassware/FusedGlassCoastersSet-4.jpg"
+        }
+    ],
+        "seller": "GlassFusions",
+        "stock": 22,
+        "numOfReviews": 6,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Glassware",
+        "name": "Stained Glass Jewelry Box",
+        "price": 34.99,
+        "description": "A stained glass jewelry box with intricate designs, keeping your accessories organized.",
+        "ratings": 3,
+        "images": [
+            {
+            "image": "/images/glassware/StainedGlassJewelryBox-1.jpg"
+        },
+            {
+            "image": "/images/glassware/StainedGlassJewelryBox-2.jpg"
+        },
+            {
+            "image": "/images/glassware/StainedGlassJewelryBox-3.jpg"
+        },
+            {
+            "image": "/images/glassware/StainedGlassJewelryBox-4.jpg"
+        }
+    ],
+        "seller": "JewelryArtisans",
+        "stock": 18,
+        "numOfReviews": 7,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Glassware",
+        "name": "Handblown Glass Pitcher",
+        "price": 56.99,
+        "description": "A handblown glass pitcher with artistic patterns, perfect for serving beverages in style.",
+        "ratings": 2,
+        "images": [
+            {
+            "image": "/images/glassware/HandblownGlassPitcher-1.jpg"
+        },
+            {
+            "image": "/images/glassware/HandblownGlassPitcher-2.jpg"
+        },
+            {
+            "image": "/images/glassware/HandblownGlassPitcher-3.jpg"
+        },
+            {
+            "image": "/images/glassware/HandblownGlassPitcher-4.jpg"
+        }
+    ],
+        "seller": "GlassCreations",
+        "stock": 16,
+        "numOfReviews": 7,
+        "reviews": [
+
+        ]
+    },
+
+
+
+    
+
+
+
+
+    {
+        "category": "Jewelry",
+        "name": "Silver Filigree Necklace",
+        "price": 89.99,
+        "description": "A handcrafted silver filigree necklace with intricate details, showcasing elegance.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/jewelry/SilverFiligreeNecklace-1.jpg"
+        },
+            {
+            "image": "/images/jewelry/SilverFiligreeNecklace-2.jpg"
+        },
+            {
+            "image": "/images/jewelry/SilverFiligreeNecklace-3.jpg"
+        },
+            {
+            "image": "/images/jewelry/SilverFiligreeNecklace-4.jpg"
+        }
+    ],
+        "seller": "SilverElegance",
+        "stock": 15,
+        "numOfReviews": 7,
+        "reviews": [
+
+
+        ]
+    }, {
+        "category": "Jewelry",
+        "name": "Gemstone Earrings",
+        "price": 42.99,
+        "description": "Handcrafted gemstone earrings with vibrant colors, adding a touch of glamour.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/jewelry/GemstoneEarrings-1.jpg"
+        },
+            {
+            "image": "/images/jewelry/GemstoneEarrings-2.jpg"
+        },
+            {
+            "image": "/images/jewelry/GemstoneEarrings-3.jpg"
+        },
+            {
+            "image": "/images/jewelry/GemstoneEarrings-4.jpg"
+        }
+    ],
+        "seller": "GemstoneGems",
+        "stock": 20,
+        "numOfReviews": 6,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Jewelry",
+        "name": "Silver Bracelet",
+        "price": 49.99,
+        "description": "A handcrafted silver bracelet with intricate patterns, a timeless accessory.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/jewelry/SilverBracelet-1.jpg"
+        },
+            {
+            "image": "/images/jewelry/SilverBracelet-2.jpg"
+        },
+            {
+            "image": "/images/jewelry/SilverBracelet-3.jpg"
+        },
+            {
+            "image": "/images/jewelry/SilverBracelet-4.jpg"
+        }
+    ],
+        "seller": "SilverCraftsmen",
+        "stock": 18,
+        "numOfReviews": 8,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Jewelry",
+        "name": "Pearl Necklace Set",
+        "price": 64.99,
+        "description": "A pearl necklace set with matching earrings, a classic addition to your collection.",
+        "ratings": 5,
+        "images": [
+            {
+            "image": "/images/jewelry/PearlNecklaceSet-1.jpg"
+        },
+            {
+            "image": "/images/jewelry/PearlNecklaceSet-2.jpg"
+        },
+            {
+            "image": "/images/jewelry/PearlNecklaceSet-3.jpg"
+        },
+            {
+            "image": "/images/jewelry/PearlNecklaceSet-4.jpg"
+        }
+    ],
+        "seller": "PearlElegance",
+        "stock": 15,
+        "numOfReviews": 9,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Jewelry",
+        "name": "Enamel Brooch",
+        "price": 29.99,
+        "description": "A handcrafted enamel brooch with intricate designs, adding a touch of color to your attire.",
+        "ratings": 3,
+        "images": [
+            {
+            "image": "/images/jewelry/EnamelBrooch-1.jpg"
+        },
+            {
+            "image": "/images/jewelry/EnamelBrooch-2.jpg"
+        },
+            {
+            "image": "/images/jewelry/EnamelBrooch-3.jpg"
+        },
+            {
+            "image": "/images/jewelry/EnamelBrooch-4.jpg"
+        }
+    ],
+        "seller": "EnamelArtistry",
+        "stock": 20,
+        "numOfReviews": 6,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Jewelry",
+        "name": "Crystal Pendant Necklace",
+        "price": 39.99,
+        "description": "A crystal pendant necklace with a delicate chain, adding a touch of sparkle.",
+        "ratings": 2,
+        "images": [
+            {
+            "image": "/images/jewelry/CrystalPendantNecklace-1.jpg"
+        },
+            {
+            "image": "/images/jewelry/CrystalPendantNecklace-2.jpg"
+        },
+            {
+            "image": "/images/jewelry/CrystalPendantNecklace-3.jpg"
+        },
+            {
+            "image": "/images/jewelry/CrystalPendantNecklace-4.jpg"
+        }
+    ],
+        "seller": "CrystalGems",
+        "stock": 18,
+        "numOfReviews": 7,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Jewelry",
+        "name": "Silver Rings Set",
+        "price": 54.99,
+        "description": "A set of handcrafted silver rings with unique designs, perfect for stacking.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/jewelry/SilverRingsSet-1.jpg"
+        },
+            {
+            "image": "/images/jewelry/SilverRingsSet-2.jpg"
+        },
+            {
+            "image": "/images/jewelry/SilverRingsSet-3.jpg"
+        },
+            {
+            "image": "/images/jewelry/SilverRingsSet-4.jpg"
+        }
+    ],
+        "seller": "SilverGlamour",
+        "stock": 16,
+        "numOfReviews": 6,
+        "reviews": []
+    }, {
+        "category": "Jewelry",
+        "name": "Beaded Bracelet Set",
+        "price": 28.99,
+        "description": "A set of beaded bracelets with colorful beads, adding a boho-chic flair to your style.",
+        "ratings": 2,
+        "images": [
+            {
+            "image": "/images/jewelry/BeadedBraceletSet-1.jpg"
+        },
+            {
+            "image": "/images/jewelry/BeadedBraceletSet-2.jpg"
+        },
+            {
+            "image": "/images/jewelry/BeadedBraceletSet-3.jpg"
+        },
+            {
+            "image": "/images/jewelry/BeadedBraceletSet-4.jpg"
+        }
+    ],
+        "seller": "BohoBeads",
+        "stock": 20,
+        "numOfReviews": 5,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Jewelry",
+        "name": "Handcrafted Leather Bracelet",
+        "price": 34.99,
+        "description": "A handcrafted leather bracelet with intricate designs, adding a rustic touch to your style.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/jewelry/HandcraftedLeatherBracelet-1.jpg"
+        },
+            {
+            "image": "/images/jewelry/HandcraftedLeatherBracelet-2.jpg"
+        },
+            {
+            "image": "/images/jewelry/HandcraftedLeatherBracelet-3.jpg"
+        },
+            {
+            "image": "/images/jewelry/HandcraftedLeatherBracelet-4.jpg"
+        }
+    ],
+        "seller": "LeatherArtisans",
+        "stock": 22,
+        "numOfReviews": 6,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Jewelry",
+        "name": "Silver Pendant Necklace",
+        "price": 59.99,
+        "description": "A handcrafted silver pendant necklace with a unique pendant design.",
+        "ratings": 5,
+        "images": [
+            {
+            "image": "/images/jewelry/SilverPendantNecklace-1.jpg"
+        },
+            {
+            "image": "/images/jewelry/SilverPendantNecklace-2.jpg"
+        },
+            {
+            "image": "/images/jewelry/SilverPendantNecklace-3.jpg"
+        },
+            {
+            "image": "/images/jewelry/SilverPendantNecklace-4.jpg"
+        }
+    ],
+        "seller": "SilverCraftsmen",
+        "stock": 18,
+        "numOfReviews": 8,
+        "reviews": []
+    },
+
+
+
+    {
+        "category": "Pottery",
+        "name": "Handcrafted Ceramic Bowl",
+        "price": 39.99,
+        "description": "A handcrafted ceramic bowl with artistic patterns, ideal for serving or display.",
+        "ratings": 3,
+        "images": [
+            {
+            "image": "/images/pottery/HandcraftedCeramicBowl-1.jpg"
+        },
+            {
+            "image": "/images/pottery/HandcraftedCeramicBowl-2.jpg"
+        },
+            {
+            "image": "/images/pottery/HandcraftedCeramicBowl-3.jpg"
+        },
+            {
+            "image": "/images/pottery/HandcraftedCeramicBowl-4.jpg"
+        }
+    ],
+        "seller": "PotteryArtistry",
+        "stock": 18,
+        "numOfReviews": 7,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Pottery",
+        "name": "Artistic Clay Sculpture",
+        "price": 79.99,
+        "description": "An artistic clay sculpture with intricate details, adding a touch of culture to your space.",
+        "ratings": 5,
+        "images": [
+            {
+            "image": "/images/pottery/ArtisticClaySculpture-1.jpg"
+        },
+            {
+            "image": "/images/pottery/ArtisticClaySculpture-2.jpg"
+        },
+            {
+            "image": "/images/pottery/ArtisticClaySculpture-3.jpg"
+        },
+            {
+            "image": "/images/pottery/ArtisticClaySculpture-4.jpg"
+        }
+    ],
+        "seller": "SculptureArtisans",
+        "stock": 12,
+        "numOfReviews": 8,
+        "reviews": []
+    }, {
+        "category": "Pottery",
+        "name": "Handmade Clay Teapot",
+        "price": 54.99,
+        "description": "A handmade clay teapot with a traditional design, perfect for tea ceremonies.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/pottery/HandmadeClayTeapot-1.jpg"
+        },
+            {
+            "image": "/images/pottery/HandmadeClayTeapot-2.jpg"
+        },
+            {
+            "image": "/images/pottery/HandmadeClayTeapot-3.jpg"
+        },
+            {
+            "image": "/images/pottery/HandmadeClayTeapot-4.jpg"
+        }
+    ],
+        "seller": "TeaPottery",
+        "stock": 15,
+        "numOfReviews": 5,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Pottery",
+        "name": "Ceramic Plant Pot",
+        "price": 28.99,
+        "description": "A ceramic plant pot with intricate designs, adding elegance to your indoor plants.",
+        "ratings": 3,
+        "images": [
+            {
+            "image": "/images/pottery/CeramicPlantPot-1.jpg"
+        },
+            {
+            "image": "/images/pottery/CeramicPlantPot-2.jpg"
+        },
+            {
+            "image": "/images/pottery/CeramicPlantPot-3.jpg"
+        },
+            {
+            "image": "/images/pottery/CeramicPlantPot-4.jpg"
+        }
+    ],
+        "seller": "PlantCrafts",
+        "stock": 20,
+        "numOfReviews": 6,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Pottery",
+        "name": "Raku Pottery Vase",
+        "price": 44.99,
+        "description": "A Raku pottery vase with unique glazes and textures, adding rustic charm to your decor.",
+        "ratings": 2,
+        "images": [
+            {
+            "image": "/images/pottery/RakuPotteryVase-1.jpg"
+        },
+            {
+            "image": "/images/pottery/RakuPotteryVase-2.jpg"
+        },
+            {
+            "image": "/images/pottery/RakuPotteryVase-3.jpg"
+        },
+            {
+            "image": "/images/pottery/RakuPotteryVase-4.jpg"
+        }
+    ],
+        "seller": "RakuArtisans",
+        "stock": 14,
+        "numOfReviews": 7,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Pottery",
+        "name": "Ceramic Serving Platter",
+        "price": 36.99,
+        "description": "A ceramic serving platter with hand-painted patterns, perfect for hosting gatherings.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/pottery/CeramicServingPlatter-1.jpg"
+        },
+            {
+            "image": "/images/pottery/CeramicServingPlatter-2.jpg"
+        },
+            {
+            "image": "/images/pottery/CeramicServingPlatter-3.jpg"
+        },
+            {
+            "image": "/images/pottery/CeramicServingPlatter-4.jpg"
+        }
+    ],
+        "seller": "EntertainingArt",
+        "stock": 16,
+        "numOfReviews": 8,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Pottery",
+        "name": "Hand-Thrown Ceramic Mug",
+        "price": 19.99,
+        "description": "A hand-thrown ceramic mug with a comfortable handle, perfect for your favorite beverages.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/pottery/Hand-ThrownCeramicMug-1.jpg"
+        },
+            {
+            "image": "/images/pottery/Hand-ThrownCeramicMug-2.jpg"
+        },
+            {
+            "image": "/images/pottery/Hand-ThrownCeramicMug-3.jpg"
+        },
+            {
+            "image": "/images/pottery/Hand-ThrownCeramicMug-4.jpg"
+        }
+    ],
+        "seller": "MugArtisans",
+        "stock": 25,
+        "numOfReviews": 4,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Pottery",
+        "name": "Ceramic Sculptural Dish",
+        "price": 32.99,
+        "description": "A ceramic sculptural dish with intricate details, perfect for displaying small items.",
+        "ratings": 2,
+        "images": [
+            {
+            "image": "/images/pottery/CeramicSculpturalDish-1.jpg"
+        },
+            {
+            "image": "/images/pottery/CeramicSculpturalDish-2.jpg"
+        },
+            {
+            "image": "/images/pottery/CeramicSculpturalDish-3.jpg"
+        },
+            {
+            "image": "/images/pottery/CeramicSculpturalDish-4.jpg"
+        }
+    ],
+        "seller": "ArtfulPottery",
+        "stock": 20,
+        "numOfReviews": 5,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Pottery",
+        "name": "Ceramic Incense Burner",
+        "price": 24.99,
+        "description": "A ceramic incense burner with a calming design, creating a soothing ambiance.",
+        "ratings": 1,
+        "images": [
+            {
+            "image": "/images/pottery/CeramicIncenseBurner-1.jpg"
+        },
+            {
+            "image": "/images/pottery/CeramicIncenseBurner-2.jpg"
+        },
+            {
+            "image": "/images/pottery/CeramicIncenseBurner-3.jpg"
+        },
+            {
+            "image": "/images/pottery/CeramicIncenseBurner-4.jpg"
+        }
+    ],
+        "seller": "ZenCrafts",
+        "stock": 22,
+        "numOfReviews": 7,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Pottery",
+        "name": "Handcrafted Ceramic Wall Art",
+        "price": 69.99,
+        "description": "A handcrafted ceramic wall art piece, adding a touch of nature to your decor.",
+        "ratings": 5,
+        "images": [
+            {
+            "image": "/images/pottery/HandcraftedCeramicWallArt-1.jpg"
+        },
+            {
+            "image": "/images/pottery/HandcraftedCeramicWallArt-2.jpg"
+        },
+            {
+            "image": "/images/pottery/HandcraftedCeramicWallArt-3.jpg"
+        },
+            {
+            "image": "/images/pottery/HandcraftedCeramicWallArt-4.jpg"
+        }
+    ],
+        "seller": "ArtfulWalls",
+        "stock": 15,
+        "numOfReviews": 9,
+        "reviews": [
+
+        ]
+    },
+
+
+
+
+
+
+    {
+        "category": "Leather Goods",
+        "name": "Handcrafted Leather Wallet",
+        "price": 49.99,
+        "description": "A handcrafted leather wallet with multiple compartments, combining style and functionality.",
+        "ratings": 3,
+        "images": [
+            {
+            "image": "/images/leather/HandcraftedLeatherWallet-1.jpg"
+        },
+            {
+            "image": "/images/leather/HandcraftedLeatherWallet-2.jpg"
+        },
+            {
+            "image": "/images/leather/HandcraftedLeatherWallet-3.jpg"
+        },
+            {
+            "image": "/images/leather/HandcraftedLeatherWallet-4.jpg"
+        }
+    ],
+        "seller": "LeatherCrafters",
+        "stock": 18,
+        "numOfReviews": 8,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Leather Goods",
+        "name": "Leather Passport Holder",
+        "price": 34.99,
+        "description": "A leather passport holder with a vintage look, keeping your travel documents secure.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/leather/LeatherPassportHolder-1.jpg"
+        },
+            {
+            "image": "/images/leather/LeatherPassportHolder-2.jpg"
+        },
+            {
+            "image": "/images/leather/LeatherPassportHolder-3.jpg"
+        },
+            {
+            "image": "/images/leather/LeatherPassportHolder-4.jpg"
+        }
+    ],
+        "seller": "TravelEssentials",
+        "stock": 20,
+        "numOfReviews": 7,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Leather Goods",
+        "name": "Hand-Stitched Leather Journal",
+        "price": 29.99,
+        "description": "A hand-stitched leather journal, perfect for sketching, writing, and note-taking.",
+        "ratings": 5,
+        "images": [
+            {
+            "image": "/images/leather/Hand-StitchedLeatherJournal-1.jpg"
+        },
+            {
+            "image": "/images/leather/Hand-StitchedLeatherJournal-2.jpg"
+        },
+            {
+            "image": "/images/leather/Hand-StitchedLeatherJournal-3.jpg"
+        },
+            {
+            "image": "/images/leather/Hand-StitchedLeatherJournal-4.jpg"
+        }
+    ],
+        "seller": "CreativeCraftsmen",
+        "stock": 22,
+        "numOfReviews": 9,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Leather Goods",
+        "name": "Leather Crossbody Bag",
+        "price": 69.99,
+        "description": "A leather crossbody bag with adjustable straps, combining fashion and convenience.",
+        "ratings": 3,
+        "images": [
+            {
+            "image": "/images/leather/LeatherCrossbodyBag-1.jpg"
+        },
+            {
+            "image": "/images/leather/LeatherCrossbodyBag-2.jpg"
+        },
+            {
+            "image": "/images/leather/LeatherCrossbodyBag-3.jpg"
+        },
+            {
+            "image": "/images/leather/LeatherCrossbodyBag-4.jpg"
+        }
+],
+        "seller": "BagArtisans",
+        "stock": 15,
+        "numOfReviews": 8,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Leather Goods",
+        "name": "Hand-Tooled Leather Belt",
+        "price": 39.99,
+        "description": "A hand-tooled leather belt with intricate designs, adding style to your outfit.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/leather/Hand-TooledLeatherBelt-1.jpg"
+        },
+            {
+            "image": "/images/leather/Hand-TooledLeatherBelt-2.jpg"
+        },
+            {
+            "image": "/images/leather/Hand-TooledLeatherBelt-3.jpg"
+        },
+            {
+            "image": "/images/leather/Hand-TooledLeatherBelt-4.jpg"
+        }
+    ],
+        "seller": "LeatherArtistry",
+        "stock": 25,
+        "numOfReviews": 7,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Leather Goods",
+        "name": "Leather Phone Case",
+        "price": 24.99,
+        "description": "A leather phone case with card slots, protecting your phone and cards in style.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/leather/LeatherPhoneCase-1.jpg"
+        },
+            {
+            "image": "/images/leather/LeatherPhoneCase-2.jpg"
+        },
+            {
+            "image": "/images/leather/LeatherPhoneCase-3.jpg"
+        },
+            {
+            "image": "/images/leather/LeatherPhoneCase-4.jpg"
+        }
+    ],
+        "seller": "TechLeather",
+        "stock": 30,
+        "numOfReviews": 6,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Leather Goods",
+        "name": "Leather Keychain",
+        "price": 14.99,
+        "description": "A leather keychain with personalized initials, adding a touch of uniqueness.",
+        "ratings": 2,
+        "images": [
+            {
+            "image": "/images/leather/LeatherKeychain-1.jpg"
+        },
+            {
+            "image": "/images/leather/LeatherKeychain-2.jpg"
+        },
+            {
+            "image": "/images/leather/LeatherKeychain-3.jpg"
+        },
+            {
+            "image": "/images/leather/LeatherKeychain-4.jpg"
+        }
+    ],
+        "seller": "PersonalizedLeather",
+        "stock": 18,
+        "numOfReviews": 5,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Leather Goods",
+        "name": "Leather Coasters Set",
+        "price": 19.99,
+        "description": "A set of leather coasters with decorative stitching, protecting your surfaces.",
+        "ratings": 3,
+        "images": [
+            {
+            "image": "/images/leather/LeatherCoastersSet-1.jpg"
+        },
+            {
+            "image": "/images/leather/LeatherCoastersSet-2.jpg"
+        },
+            {
+            "image": "/images/leather/LeatherCoastersSet-3.jpg"
+        },
+            {
+            "image": "/images/leather/LeatherCoastersSet-4.jpg"
+        }
+    ],
+        "seller": "LeatherAccents",
+        "stock": 22,
+        "numOfReviews": 6,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Leather Goods",
+        "name": "Leather Card Holder",
+        "price": 18.99,
+        "description": "A compact leather card holder with sleek design, organizing your cards stylishly.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/leather/LeatherCardHolder-1.jpg"
+        },
+            {
+            "image": "/images/leather/LeatherCardHolder-2.jpg"
+        },
+            {
+            "image": "/images/leather/LeatherCardHolder-3.jpg"
+        },
+            {
+            "image": "/images/leather/LeatherCardHolder-4.jpg"
+        }
+    ],
+        "seller": "CardCarriers",
+        "stock": 20,
+        "numOfReviews": 6,
+        "reviews": [
+
+        ]
+    }, 
+   
+
+    {
+        "category": "Fiber Art",
+        "name": "Macramé Wall Hanging",
+        "price": 42.99,
+        "description": "A handcrafted macramé wall hanging with intricate knotwork, adding texture to your walls.",
+        "ratings": 2,
+        "images": [
+            {
+            "image": "/images/fiber_art/MacrameWallHanging-1.jpg"
+        },
+            {
+            "image": "/images/fiber_art/MacrameWallHanging-2.jpg"
+        },
+            {
+            "image": "/images/fiber_art/MacrameWallHanging-3.jpg"
+        },
+            {
+            "image": "/images/fiber_art/MacrameWallHanging-4.jpg"
+        }
+    ],
+        "seller": "MacraméMasters",
+        "stock": 18,
+        "numOfReviews": 8,
+        "reviews": []
+    }, {
+        "category": "Fiber Art",
+        "name": "Handwoven Tapestry",
+        "price": 64.99,
+        "description": "A handwoven fiber art tapestry with intricate patterns, perfect for adding warmth to your space.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/fiber_art/HandwovenWallTapestry-1.jpg"
+        },
+            {
+            "image": "/images/fiber_art/HandwovenWallTapestry-2.jpg"
+        },
+            {
+            "image": "/images/fiber_art/HandwovenWallTapestry-3.jpg"
+        },
+            {
+            "image": "/images/fiber_art/HandwovenWallTapestry-4.jpg"
+        }
+    ],
+        "seller": "WeavingWonders",
+        "stock": 15,
+        "numOfReviews": 9,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Fiber Art",
+        "name": "Knitted Scarf",
+        "price": 24.99,
+        "description": "A knitted fiber art scarf with a cozy and stylish design, perfect for colder days.",
+        "ratings": 5,
+        "images": [
+            {
+            "image": "/images/fiber_art/KnittedScarf-1.jpg"
+        },
+            {
+            "image": "/images/fiber_art/KnittedScarf-2.jpg"
+        },
+            {
+            "image": "/images/fiber_art/KnittedScarf-3.jpg"
+        },
+            {
+            "image": "/images/fiber_art/KnittedScarf-4.jpg"
+        }
+    ],
+        "seller": "KnitCrafters",
+        "stock": 20,
+        "numOfReviews": 6,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Fiber Art",
+        "name": "Hand-Dyed Yarn Set",
+        "price": 32.99,
+        "description": "A set of hand-dyed yarn in vibrant colors, perfect for your knitting and crochet projects.",
+        "ratings": 5,
+        "images": [
+            {
+            "image": "/images/fiber_art/Hand-DyedYarnSet-1.jpg"
+        },
+            {
+            "image": "/images/fiber_art/Hand-DyedYarnSet-2.jpg"
+        },
+            {
+            "image": "/images/fiber_art/Hand-DyedYarnSet-3.jpg"
+        },
+            {
+            "image": "/images/fiber_art/Hand-DyedYarnSet-4.jpg"
+        }
+    ],
+        "seller": "ColorfulFibers",
+        "stock": 22,
+        "numOfReviews": 7,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Fiber Art",
+        "name": "Embroidered Textile Art",
+        "price": 28.99,
+        "description": "An embroidered fiber art piece with intricate stitching, adding a touch of creativity to your space.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/fiber_art/EmbroideredTextileArt-1.jpg"
+        },
+            {
+            "image": "/images/fiber_art/EmbroideredTextileArt-2.jpg"
+        },
+            {
+            "image": "/images/fiber_art/EmbroideredTextileArt-3.jpg"
+        },
+            {
+            "image": "/images/fiber_art/EmbroideredTextileArt-4.jpg"
+        }
+    ],
+        "seller": "ThreadCrafters",
+        "stock": 20,
+        "numOfReviews": 6,
+        "reviews": [
+
+        ]
+    }, 
+    
+     {
+        "category": "Fiber Art",
+        "name": "Felted Wool Sculpture",
+        "price": 38.99,
+        "description": "A felted wool sculpture with unique designs, adding a touch of whimsy to your decor.",
+        "ratings": 2,
+        "images": [
+            {
+            "image": "/images/fiber_art/FeltedWoolSculpture-1.jpg"
+        },
+            {
+            "image": "/images/fiber_art/FeltedWoolSculpture-2.jpg"
+        },
+            {
+            "image": "/images/fiber_art/FeltedWoolSculpture-3.jpg"
+        },
+            {
+            "image": "/images/fiber_art/FeltedWoolSculpture-4.jpg"
+        }
+    ],
+        "seller": "WoolyCreations",
+        "stock": 18,
+        "numOfReviews": 8,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Fiber Art",
+        "name": "Woven Coasters Set",
+        "price": 18.99,
+        "description": "A set of woven fiber art coasters, adding a touch of style and protection to your surfaces.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/fiber_art/WovenCoastersSet-1.jpg"
+        },
+            {
+            "image": "/images/fiber_art/WovenCoastersSet-2.jpg"
+        },
+            {
+            "image": "/images/fiber_art/WovenCoastersSet-3.jpg"
+        },
+            {
+            "image": "/images/fiber_art/WovenCoastersSet-4.jpg"
+        }
+    ],
+        "seller": "WeaveCrafters",
+        "stock": 25,
+        "numOfReviews": 7,
+        "reviews": [
+
+        ]
+    }, {
+        "category": "Fiber Art",
+        "name": "Macramé Plant Hanger",
+        "price": 26.99,
+        "description": "A handcrafted macramé plant hanger, perfect for showcasing your favorite indoor plants.",
+        "ratings": 1,
+        "images": [
+            {
+            "image": "/images/fiber_art/MacramePlantHanger-1.jpg"
+        },
+            {
+            "image": "/images/fiber_art/MacramePlantHanger-2.jpg"
+        },
+            {
+            "image": "/images/fiber_art/MacramePlantHanger-3.jpg"
+        },
+            {
+            "image": "/images/fiber_art/MacramePlantHanger-4.jpg"
+        }
+    ],
+        "seller": "PlantCrafters",
+        "stock": 17,
+        "numOfReviews": 6,
+        "reviews": [
+
+        ]
+    }, 
+     {
+        "category": "Fiber Art",
+        "name": "Dreamcatcher-Inspired Wall Art",
+        "price": 39.99,
+        "description": "Add a touch of enchantment to your home with this captivating dreamcatcher-inspired wall art. Handcrafted with meticulous attention to detail, it combines delicate fibers and intricate beadwork, creating a mesmerizing focal point for any room.",
+        "ratings": 4,
+        "images": [
+            {
+            "image": "/images/fiber_art/Dreamcatcher-InspiredWallArt-1.jpg"
+        },
+            {
+            "image": "/images/fiber_art/Dreamcatcher-InspiredWallArt-2.jpg"
+        },
+            {
+            "image": "/images/fiber_art/Dreamcatcher-InspiredWallArt-3.jpg"
+        },
+            {
+            "image": "/images/fiber_art/Dreamcatcher-InspiredWallArt-4.jpg"
+        }
+    ],
+        "seller": "MysticWeavings",
+        "stock": 14,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+
+
+
+
+
+
+
+    {
+            "category": "Metal Sculptures",
+            "name": "Abstract Geometric Art",
+            "price": 149.99,
+            "description": "A captivating metal sculpture featuring abstract geometric shapes that play with light and shadow, adding a modern flair to your space.",
+            "ratings": 5,
+            "images": [
+                {
+                "image": "/images/metal_sculptures/AbstractGeometricArt-1.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/AbstractGeometricArt-2.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/AbstractGeometricArt-3.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/AbstractGeometricArt-4.jpg"
+            }
+        ],
+            "seller": "MetalCraftsmen",
+            "stock": 10,
+            "numOfReviews": 15,
+            "reviews": [
+
+            ]
+        },
+        {
+            "category": "Metal Sculptures",
+            "name": "Elegant Tree of Life",
+            "price": 189.99,
+            "description": "A gracefully crafted metal sculpture depicting the Tree of Life, symbolizing growth, strength, and interconnectedness.",
+            "ratings": 5,
+            "images": [
+                {
+                "image": "/images/metal_sculptures/ElegantTreeofLife-1.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/ElegantTreeofLife-2.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/ElegantTreeofLife-3.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/ElegantTreeofLife-4.jpg"
+            }
+        ],
+            "seller": "ArtisticMetalworks",
+            "stock": 8,
+            "numOfReviews": 11,
+            "reviews": [
+
+            ]
+        },
+        {
+            "category": "Metal Sculptures",
+            "name": "Sculptural Wall Clock",
+            "price": 129.99,
+            "description": "A functional and artistic metal sculpture that doubles as a wall clock, merging form and function seamlessly.",
+            "ratings": 4,
+            "images": [
+                {
+                "image": "/images/metal_sculptures/SculpturalWallClock-1.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/SculpturalWallClock-2.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/SculpturalWallClock-3.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/SculpturalWallClock-4.jpg"
+            }
+        ],
+            "seller": "TimelessMetalArt",
+            "stock": 12,
+            "numOfReviews": 9,
+            "reviews": [
+
+            ]
+        },
+        {
+            "category": "Metal Sculptures",
+            "name": "Whimsical Animal Trio",
+            "price": 99.99,
+            "description": "A delightful trio of whimsical animal sculptures crafted from metal, perfect for adding charm and playfulness to your decor.",
+            "ratings": 3,
+            "images": [
+                {
+                "image": "/images/metal_sculptures/WhimsicalAnimalTrio-1.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/WhimsicalAnimalTrio-2.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/WhimsicalAnimalTrio-3.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/WhimsicalAnimalTrio-4.jpg"
+            }
+        ],
+            "seller": "MetalMenagerie",
+            "stock": 15,
+            "numOfReviews": 13,
+            "reviews": [
+
+            ]
+        },
+        {
+            "category": "Metal Sculptures",
+            "name": "Contemporary Kinetic Mobile",
+            "price": 169.99,
+            "description": "An elegant kinetic metal sculpture that gracefully moves with the slightest breeze, creating a mesmerizing visual display.",
+            "ratings": 2,
+            "images": [
+                {
+                "image": "/images/metal_sculptures/ContemporaryKineticMobile-1.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/ContemporaryKineticMobile-2.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/ContemporaryKineticMobile-3.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/ContemporaryKineticMobile-4.jpg"
+            }
+        ],
+            "seller": "WindWonders",
+            "stock": 9,
+            "numOfReviews": 10,
+            "reviews": [
+
+            ]
+        },
+        {
+            "category": "Metal Sculptures",
+            "name": "Industrial Steampunk Art",
+            "price": 179.99,
+            "description": "A striking industrial-inspired metal sculpture that captures the essence of steampunk aesthetics, making a bold statement.",
+            "ratings": 4,
+            "images": [
+                {
+                "image": "/images/metal_sculptures/IndustrialSteampunkArt-1.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/IndustrialSteampunkArt-2.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/IndustrialSteampunkArt-3.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/IndustrialSteampunkArt-4.jpg"
+            }
+        ],
+            "seller": "SteamCrafted",
+            "stock": 7,
+            "numOfReviews": 8,
+            "reviews": [
+
+            ]
+        },
+        {
+            "category": "Metal Sculptures",
+            "name": "Celestial Sun and Moon",
+            "price": 159.99,
+            "description": "A celestial-themed metal sculpture featuring a harmonious interplay between the sun and moon, evoking a sense of cosmic balance.",
+            "ratings": 5,
+            "images": [
+                {
+                "image": "/images/metal_sculptures/CelestialSunandMoon-1.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/CelestialSunandMoon-2.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/CelestialSunandMoon-3.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/CelestialSunandMoon-4.jpg"
+            }
+        ],
+            "seller": "CosmicCreations",
+            "stock": 11,
+            "numOfReviews": 12,
+            "reviews": [
+
+            ]
+        },
+        {
+            "category": "Metal Sculptures",
+            "name": "Graceful Dancer Figurine",
+            "price": 119.99,
+            "description": "An exquisite metal sculpture capturing the grace and fluidity of a dancer's movements, celebrating the beauty of art in motion.",
+            "ratings": 4,
+            "images": [
+                {
+                "image": "/images/metal_sculptures/GracefulDancerFigurine-1.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/GracefulDancerFigurine-2.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/GracefulDancerFigurine-3.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/GracefulDancerFigurine-4.jpg"
+            }
+        ],
+            "seller": "DanceSculptures",
+            "stock": 13,
+            "numOfReviews": 14,
+            "reviews": [
+
+            ]
+        },
+        {
+            "category": "Metal Sculptures",
+            "name": "Rustic Farmhouse Rooster",
+            "price": 89.99,
+            "description": "A charming metal sculpture of a rooster with rustic farmhouse appeal, adding a touch of countryside charm to your home.",
+            "ratings": 3,
+            "images": [
+                {
+                "image": "/images/metal_sculptures/RusticFarmhouseRooster-1.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/RusticFarmhouseRooster-2.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/RusticFarmhouseRooster-3.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/RusticFarmhouseRooster-4.jpg"
+            }
+        ],
+            "seller": "FarmhouseArtistry",
+            "stock": 16,
+            "numOfReviews": 10,
+            "reviews": [
+
+            ]
+        },
+        {
+            "category": "Metal Sculptures",
+            "name": "Abstract Modernist Composition",
+            "price": 199.99,
+            "description": "A thought-provoking metal sculpture featuring an abstract modernist composition that sparks conversation and contemplation.",
+            "ratings": 5,
+            "images": [
+                {
+                "image": "/images/metal_sculptures/AbstractModernistComposition-1.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/AbstractModernistComposition-2.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/AbstractModernistComposition-3.jpg"
+            },
+                {
+                "image": "/images/metal_sculptures/AbstractModernistComposition-4.jpg"
+            }
+        ],
+            "seller": "ArtisticFusion",
+            "stock": 6,
+            "numOfReviews": 7,
+            "reviews": [
+
+            ]
+        }
+    
+]
